@@ -10,7 +10,6 @@ dependencies = [
     "mlx-whisper>=0.4.1",
     "setuptools>=75.8.0",
     "sounddevice>=0.5.1",
-    "webrtcvad>=2.0.10",
 ]
 
 [tool.uv.sources]
